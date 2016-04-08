@@ -1,12 +1,10 @@
-//---------------------
+
+//--------VARIBLES
+var btn = document.getElementById("btn");
+var btm = document.getElementById("btm");
 
 
-
-//--------------------
-window.onload = resizeRootEm;
-window.onresize = resizeRootEm;
-
-//----------------------
-function resizeRootEm(){
-    document.documentElement.style.fontSize = 10 + window.innerWidth/100   + "px";
+//--------FUNCTIONS
+function btn (){
+    confirm ("Clicked")
 }

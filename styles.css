@@ -12,11 +12,3 @@
     background-color: lightblue;
 }
 
-#photo{
-    background: url(favicon.png) no-repeat center;
-    background-size: contain;
-    width: 3rem;
-    padding-bottom: 3rem;
-    border-radius: 50%;
-    float: right;
-}
